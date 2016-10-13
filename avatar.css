@@ -40,7 +40,7 @@ SVG Presentation Attributes:
 .arm {
 }
 
-.shoe {
+.shoe { color:orangered;
 }
 
 .left {
@@ -49,39 +49,40 @@ SVG Presentation Attributes:
 .right {
 }
 
-#head {
+#head { fill:#D39BCB; stroke:hotpink; stroke-width: 35;
 
 }
 
-#right-eye {
+#right-eye { fill:red; stroke-width: 25; stroke: red
 }
 
-#left-eye {
+#left-eye { fill: green; stroke-width:2; stroke:silver;
+} 
 }
 
-#neck {
+#neck { 
 }
 
-#shirt {
+#shirt { fill:purple; stroke:indigo;
 }
 
-#cape {
+#cape { fill: orange;
 }
 
-#mouth {
+#mouth { stroke:#E6E6FA; fill:yellow;
 }
 
-#pants {
+#pants { fill:black; stroke-width: 15; stroke:aqua;
 }
 
-#left-arm {
+#left-arm { stroke-width:15; fill:pink; stroke:lime;
 }
 
-#right-arm {
+#right-arm { fill: #FF4466; stroke:#035096;
 }
 
-#left-shoe {
+#left-shoe { stroke-width:70; stroke:#006DB0;
 }
 
-#right-shoe {
+#right-shoe { stroke-width:2; fill:#002395;
 }
